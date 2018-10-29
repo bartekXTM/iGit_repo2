@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resource>
     <item name="flashres_xtm_test_key"><![CDATA[edit_test XTM Test Key in the file flashres.xml]]></item>
-    <item name="no_clan_edit"><![CDATA[No clan-FR]]></item>
-    <item name="nohitpoints"><![CDATA[No hit points left. Repair your ship in the hangar or buy a new ship!]]></item>
-    <item name="invalid_session"><![CDATA[You're not logged in. Go to the homepage and log in to continue playing!]]></item>
+    <item name="no_clan_edit"><![CDATA[No clan]]></item>
+    <item name="invalid_session_edit"><![CDATA[You're not logged in. Go to the homepage and log in to continue playing!]]></item>
     <item name="title_alert"><![CDATA[Note]]></item>
     <item name="title_warning"><![CDATA[Warning]]></item>
     <item name="title_error"><![CDATA[Error]]></item>
