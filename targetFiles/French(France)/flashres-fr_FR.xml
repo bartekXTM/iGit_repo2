@@ -4,7 +4,8 @@
     <item name="no_clan_edit"><![CDATA[No clan]]></item>
     <item name="title_alert_edit"><![CDATA[Note]]></item>
     <item name="title_warning"><![CDATA[Warning]]></item>
-    <item name="title_error"><![CDATA[Error]]></item>
+    <item name="title_error"><![CDATA[edit_Error-EN]]></item>
+    <item name="title_error2"><![CDATA[new_Error-EN]]></item>
     <item name="doubleloggedin"><![CDATA[You're already logged in on the map.  Please close the other browser window.]]></item>
     <item name="canjmp"><![CDATA[You can make a jump if your level allows it.]]></item>
     <item name="clearing"><![CDATA[_]]></item>
