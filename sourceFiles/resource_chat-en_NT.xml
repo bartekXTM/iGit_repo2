@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resource>
-    <item name="dochat.chat.kickmsg"><![CDATA[You were kicked out by %ADMIN!-EN]]></item>
-    <item name="dochat.chat.banmsg"><![CDATA[You were banned by %ADMIN!-EN]]></item>
-    <item name="dochat.chat.kickBySystem"><![CDATA[You were kicked out by the system!-EN]]></item>
-    <item name="dochat.chat.roomnameToShort"><![CDATA[Room name is too short!-EN]]></item>
+    <item name="dochat.chat.banmsg_edit"><![CDATA[You were banned by %ADMIN!-EN_edit]]></item>
+    <item name="dochat.chat.kickBySystem"><![CDATA[You were kicked out by the system!_edit-EN]]></item>
+    <item name="dochat.chat.roomnameToShort"><![CDATA[Room name is too short!]]></item>
     <item name="dochat.chat.banBySystem"><![CDATA[You were banned from the system!]]></item>
     <item name="dochat.chat.wrongCommand"><![CDATA[Unknown command!]]></item>
     <item name="dochat.chat.noMorePrivateRoomsAllowed"><![CDATA[You can't create any further rooms!]]></item>
