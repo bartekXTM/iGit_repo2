@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resource>
-    <item name="flashres_xtm_test_key"><![CDATA[XTM Test Key in the file flashres.xml]]></item>
+    <item name="flashres_xtm_test_key"><![CDATA[edit_test XTM Test Key in the file flashres.xml]]></item>
     <item name="no_clan"><![CDATA[No clan]]></item>
     <item name="notloggedin"><![CDATA[Please log in again]]></item>
     <item name="nohitpoints"><![CDATA[No hit points left. Repair your ship in the hangar or buy a new ship!]]></item>
@@ -88,7 +88,8 @@
     <item name="radwarn_head"><![CDATA[WARNING]]></item>
     <item name="radwarn_mid"><![CDATA[RADIATION LEVEL ABOVE THE TOLERANCE LIMIT]]></item>
     <item name="radwarn_bot"><![CDATA[RETURN TO A SAFE ZONE BEFORE YOU ARE DESTROYED.]]></item>
-    <item name="msg_radiation_warning"><![CDATA[Radiation level above the tolerance limit. Return to a safe zone before you're destroyed.]]></item>
+    <item name="msg_radiation_warning"><![CDATA[Radiation level above the tolerance limit.
+Return to a safe zone before you're destroyed.]]></item>
     <item name="logout_head"><![CDATA[LOGOUT]]></item>
     <item name="logout_mid"><![CDATA[LOGGING OUT IN]]></item>
     <item name="logout_bot"><![CDATA[SECONDS]]></item>
@@ -413,8 +414,10 @@
     <item name="attack_wave"><![CDATA[Attack wave]]></item>
     <item name="invasion"><![CDATA[Invasion]]></item>
     <item name="attack_wave_x"><![CDATA[Attack wave %COUNT%]]></item>
-    <item name="gate_billboard_birthday_5"><![CDATA[5 years DarkOrbit Thank you for your support and faith.]]></item>
-    <item name="gate_billboard_birthday_6"><![CDATA[DarkOrbit's 6th birthday Thank you for your continued support!]]></item>
+    <item name="gate_billboard_birthday_5"><![CDATA[5 years DarkOrbit
+Thank you for your support and faith.]]></item>
+    <item name="gate_billboard_birthday_6"><![CDATA[DarkOrbit's 6th birthday
+Thank you for your continued support!]]></item>
     <item name="gate_title_1"><![CDATA[a Gate]]></item>
     <item name="gate_title_2"><![CDATA[ß Gate]]></item>
     <item name="gate_title_3"><![CDATA[? Gate]]></item>
@@ -731,10 +734,15 @@
     <item name="q2_ammo_rocket_2"><![CDATA[PLT-2026]]></item>
     <item name="q2_ammo_rocket_3"><![CDATA[PLT-2021]]></item>
     <item name="q2_tutorial_1_finish_title"><![CDATA[Tutorial Missions]]></item>
-    <item name="q2_tutorial_1_finish_msg"><![CDATA[Congratulations!  You've completed the tutorial and are now a full-fledged member of the %faction%. Embark on your outer space journey and discover the far reaches of the DarkOrbit universe.  Have a blast!]]></item>
+    <item name="q2_tutorial_1_finish_msg"><![CDATA[Congratulations!
+
+You've completed the tutorial and are now a full-fledged member of the %faction%. Embark on your outer space journey and discover the far reaches of the DarkOrbit universe.
+
+Have a blast!]]></item>
     <item name="q2_condition_ACTIVATE_MAP_ASSET_TYPE"><![CDATA[Activate the following item: %TYPE%]]></item>
     <item name="q2_condition_VISIT_JUMP_GATE_TO_MAP_TYPE"><![CDATA[Use the Jump Gate between %FROM% and %TO%]]></item>
-    <item name="q2_condition_VISIT_MULTIPLE_MAPS"><![CDATA[Visit the following maps: %map%]]></item>
+    <item name="q2_condition_VISIT_MULTIPLE_MAPS"><![CDATA[Visit the following maps:
+ %map%]]></item>
     <item name="q2_condition_COLLECT_LOOT"><![CDATA[Collect %TYPE%]]></item>
     <item name="q2_condition_FINISH_STARTER_GATE"><![CDATA[Fight off the Devolarium attack.]]></item>
     <item name="q2_condition_FINISH_GALAXY_GATE"><![CDATA[Complete the Galaxy Gate %TYPE%.]]></item>
@@ -786,7 +794,22 @@
     <item name="pricetag_uridium_compact"><![CDATA[%VALUE% U.]]></item>
     <item name="hit_by_wizard"><![CDATA[You were hit by a hologram-emitter rocket. Your ship's appearance has now been temporarily altered.]]></item>
     <item name="wizard_over"><![CDATA[The hologram emitter has lost its effect: Your ship looks normal again.]]></item>
-    <item name="beta_splash_text"><![CDATA[Welcome to DarkOrbit's Open %VERSION%!  Help us find the errors and bugs in this test version before the final version goes live.  Report any errors you find in the game in the forum: %BOARD_LINK% You'll also find a detailed description of how to create a good bug report there. It'll help us get the job done quicker!  Please remember that there is no e-mail support for this test environment. That's why you'll have to clarify all problems and questions in the Beta forum.  We reserve the right to close the test server or reset accounts at any time.  Have a blast testing, Your DarkOrbit Team]]></item>
+    <item name="beta_splash_text"><![CDATA[Welcome to DarkOrbit's Open %VERSION%!
+
+Help us find the errors and bugs in this test version before the final version goes live.
+
+Report any errors you find in the game in the forum:
+
+%BOARD_LINK%
+
+You'll also find a detailed description of how to create a good bug report there. It'll help us get the job done quicker!
+ Please remember that there is no e-mail support for this test environment. That's why you'll have to clarify all problems and questions in the Beta forum.
+
+We reserve the right to close the test server or reset accounts at any time.
+
+Have a blast testing,
+
+Your DarkOrbit Team]]></item>
     <item name="event_boosters_in_shop"><![CDATA[For a limited time only - special boosters available in the shop now!]]></item>
     <item name="happy_hour_notification"><![CDATA[Happy Hour! Now's the time to get your Uridium at a bargain price!]]></item>
     <item name="mega_happy_hour_notification"><![CDATA[Mega happy hour! Now's the time to get your Uridium at a bargain price!]]></item>
@@ -1147,10 +1170,16 @@
     <item name="httip_spacemap"><![CDATA[The star system helps you find your way in the endless expanse of space. It shows how the different maps are connected and how you can travel between them.]]></item>
     <item name="httip_ship"><![CDATA[The ship window displays all important ship information such as HP, nanohull strength, cargo bay capacity, rockets, ammo and current configs. Click on the information to switch between graphical and digital displays.]]></item>
     <item name="httip_user"><![CDATA[The user window shows all important account information such as EP, level, honor, Credits, Uridium and Jackpot balance.]]></item>
-    <item name="httip_group"><![CDATA[The group window displays current information about your group's members and pending group invites. Invitations can be accepted, declined, or sent. Once an invitation has been sent and accepted, a group is formed.]]></item>
+    <item name="httip_group"><![CDATA[The group window displays current information about your group's members and pending group invites.
+Invitations can be accepted, declined, or sent.
+Once an invitation has been sent and accepted, a group is formed.]]></item>
     <item name="httip_pet"><![CDATA[The PET window provides you with an overview of your PET. The bar displays important information - its hit points, amount of fuel, shield stats and experience. Activate the PET by using the Play button. You can refill it next to it and on the right you may select and activate the gear.]]></item>
-    <item name="splashscreen_text_movement"><![CDATA[Greetings space pilot!  Your spaceship is located in the center of the space map. Click on the map to move your ship around space and fly by holding down your mouse button.]]></item>
-    <item name="splashscreen_text_attack"><![CDATA[Left-click your mouse to select targets and click on the ammo symbol in the shortcut bar to fire weapons.  Collect experience points by shooting down aliens and enemy ships, but don't attack any of your company's ships!]]></item>
+    <item name="splashscreen_text_movement"><![CDATA[Greetings space pilot!
+
+Your spaceship is located in the center of the space map. Click on the map to move your ship around space and fly by holding down your mouse button.]]></item>
+    <item name="splashscreen_text_attack"><![CDATA[Left-click your mouse to select targets and click on the ammo symbol in the shortcut bar to fire weapons.
+
+Collect experience points by shooting down aliens and enemy ships, but don't attack any of your company's ships!]]></item>
     <item name="splashscreen_text_collect"><![CDATA[Collect raw materials in space and exchange them for Credits at your space station.]]></item>
     <item name="resetSettings"><![CDATA[Do you really want to reset your settings? Warning: If you accept, your browser window will close and you'll have to re-launch the game.]]></item>
     <item name="btn_reset"><![CDATA[Reset]]></item>
@@ -1197,7 +1226,7 @@
     <item name="tutorial_video_msg_8_3"><![CDATA[Thanks for the help, Pilot!<br>You're new, aren't you?<br>You should probably introduce yourself to <blue>Mission Control</blue>, then. They'll give you a few <blue>beginner missions</blue> and you could win <blue>amazing equipment and weapons</blue>.<br>They'll be waiting for you at the home base. Over and out.]]></item>
     <item name="tutorial_video_6thbday_beacon_communication_01_01"><![CDATA[Space Pilot!<br>Glad to see a friendly face - listen I got trapped here and could need <blue>your help!</blue>]]></item>
     <item name="tutorial_video_6thbday_beacon_communication_01_02"><![CDATA[Yeah, before you ask, I really don't know how I ended up in here.<br>Just jumped through that gate that came out of nowhere and here I am ...]]></item>
-    <item name="tutorial_video_6thbday_beacon_communication_01_03"><![CDATA[... my cargo room is half empty, ship's severely damaged and most of<br>... wait, what is that?!<br> <blue>Watch out!!</blue>]]></item>
+    <item name="tutorial_video_6thbday_beacon_communication_01_03"><![CDATA[... my cargo room is half empty, ship's severely damaged  and most of<br>... wait, what is that?!<br> <blue>Watch out!!</blue>]]></item>
     <item name="tutorial_video_6thbday_beacon_communication_02_01"><![CDATA[Well this is more annoying than dangerous but <blue>I think I can help you </blue> - just need a little time setting things up ...]]></item>
     <item name="tutorial_video_6thbday_beacon_communication_03_01"><![CDATA[Well there you are again - thought these Streuners would have driven you off.]]></item>
     <item name="tutorial_video_6thbday_beacon_communication_03_02"><![CDATA[Remember that I lost most of my cargo? Actually I still have limited <blue>control over some boosters</blue> I just bought recently.]]></item>
@@ -1205,11 +1234,11 @@
     <item name="tutorial_video_6thbday_beacon_communication_04_01"><![CDATA[OK <blue>activating booster 1.</blue> Now - this should give you some <blue>extra damage</blue> for a brief amount of time. I will send the booster's <blue>coordinates to your navigation system.</blue>]]></item>
     <item name="tutorial_video_6thbday_beacon_communication_05_01"><![CDATA[Worked like a charm, didn't it? I will reroute energy to the <blue>second booster</blue> now, this will increase your <blue>shield regeneration rate.</blue> Stay sharp!]]></item>
     <item name="tutorial_video_6thbday_beacon_communication_06_01"><![CDATA[Hey bud, welcome back! I figured out how to implement a series circuit that activates boosters more rapidly. <blue>Health-regeneration and hitpoints</blue> will be boosted.]]></item>
-    <item name="tutorial_video_6thbday_beacon_communication_07_01"><![CDATA[Good you made it back. I've been tinkering around a bit in your absence - you might need to move to get all the advantages, though. Good Luck.]]></item>
+    <item name="tutorial_video_6thbday_beacon_communication_07_01"><![CDATA[Good you made it back. I've been tinkering around a bit in your absence -  you might need to move to get all the advantages, though. Good Luck.]]></item>
     <item name="tutorial_video_6thbday_beacon_communication_08_01"><![CDATA[You are quite a pilot! I developed some activation patterns, which should help you a lot.]]></item>
     <item name="tutorial_video_6thbday_beacon_communication_09_01"><![CDATA[Damn, these things are starting to scare me. Being trapped in here feels like living in a goldfish bowl! Oh, and here they come again!]]></item>
     <item name="tutorial_video_6thbday_beacon_communication_10_01"><![CDATA[This will be a hard wave ... be sure to use the <blue>boosters,</blue> mate.]]></item>
-    <item name="tutorial_video_6thbday_beacon_communication_11_01"><![CDATA[Hey, welcome back! Just wondering if you believe in all these "end of the world" rumors that have been spreading recently? Oh, here we go again!]]></item>
+    <item name="tutorial_video_6thbday_beacon_communication_11_01"><![CDATA[Hey, welcome back! Just wondering if you believe in all these "end of the world" rumors  that have been spreading recently? Oh, here we go again!]]></item>
     <item name="tutorial_video_6thbday_beacon_communication_12_01"><![CDATA[Hi, buddy! Say, don't I know you from somewhere? You seem kind of familiar ... INCOMING!]]></item>
     <item name="tutorial_video_6thbday_beacon_communication_13_01"><![CDATA[Ok ... once again, I've improved the booster activation patterns. Check it out and give me some feedback ... I just might be on to something here!]]></item>
     <item name="tutorial_video_6thbday_beacon_communication_14_01"><![CDATA[What the <blue>frack</blue> is this thing? I'll try to power up the <blue>boosters</blue> as long as I can - make the best out of it. Good Luck!]]></item>
@@ -1222,7 +1251,8 @@
     <item name="tutorial_video_msg_reward_premium_content"><![CDATA[Therefore, for the next two weeks we are admitting you to the company-wide pilot protection program and will provide you access to all premium advantages free of charge... enjoy the privileges!<br /><br />Free repairs, time advantages and automatic helpers: use the advantages, because two weeks are quickly over]]></item>
     <item name="btn_repair"><![CDATA[Repair]]></item>
     <item name="btn_leaveGame"><![CDATA[Leave]]></item>
-    <item name="msg_autostart_warning"><![CDATA[Use this setting carefully. When the game is loaded, you will be automatically logged into the client, and other pilots will be able to attack you immediately.]]></item>
+    <item name="msg_autostart_warning"><![CDATA[Use this setting carefully.
+When the game is loaded, you will be automatically logged into the client, and other pilots will be able to attack you immediately.]]></item>
     <item name="btn_hangar"><![CDATA[Hangar]]></item>
     <item name="head_killscreen_you_have_been_destroyed"><![CDATA[You have been destroyed!]]></item>
     <item name="head_killscreen_destroyer_player"><![CDATA[Destroyer: <b>%VALUE%</b>]]></item>
@@ -1256,7 +1286,8 @@
     <item name="btn_killscreen_default"><![CDATA[Choose an option.]]></item>
     <item name="desc_killscreen_free_repair_cause_compensation"><![CDATA[A stroke of luck: this repair is free! Your ship was destroyed during a time in which repairs are free.]]></item>
     <item name="desc_killscreen_free_repair_cause_galaxygate"><![CDATA[Your ship was destroyed on a Galaxy Gate map, which offers free repairs.]]></item>
-    <item name="desc_killscreen_free_repair_cause_galaxygate_lives"><![CDATA[Your ship was destroyed on a Galaxy Gate map that offers free repairs. You still have %COUNT% lives left.]]></item>
+    <item name="desc_killscreen_free_repair_cause_galaxygate_lives"><![CDATA[Your ship was destroyed on a Galaxy Gate map that offers free repairs.
+You still have %COUNT% lives left.]]></item>
     <item name="desc_killscreen_free_repair_cause_ctbcarrier"><![CDATA[A stroke of luck: this repair is free! Your ship was destroyed while the CTB beacon was on board.]]></item>
     <item name="desc_killscreen_free_repair_cause_jackpot"><![CDATA[Your ship was destroyed on a Jackpot Battle map, which offers free repairs.]]></item>
     <item name="desc_killscreen_free_repair_cause_premium"><![CDATA[As a Premium member, you can always repair your ship for free.]]></item>
@@ -1561,17 +1592,28 @@
     <item name="ttip_SPECTRUM_skill"><![CDATA[Spectrum prismatic shielding]]></item>
     <item name="ttip_VENOM_skill"><![CDATA[Singularity]]></item>
     <item name="ttip_LIGHTNING_skill"><![CDATA[Lightning afterburner]]></item>
-    <item name="ttip_AEGIS_REPAIRHP_skill"><![CDATA[HP repair gradually restores your ship's HP as well as the HP of selected ships.]]></item>
-    <item name="ttip_AEGIS_SHIELDRECHARGE_skill"><![CDATA[Shield repair gradually restores your ship's shields as well as the shields of selected ships.]]></item>
-    <item name="ttip_AEGIS_HEALINGPOD_skill"><![CDATA[Reparatur Pod Creates an energy field and repairs your ship as well as fellow group ships.]]></item>
-    <item name="ttip_CITADEL_DRAWFIRE_skill"><![CDATA[Draw Fire temporarily redirects the trajectory of nearby enemy fire towards your ship.]]></item>
-    <item name="ttip_CITADEL_TRAVELMODE_skill"><![CDATA[Travel Mode briefly increases your ship's speed, so you can quickly travel long distances.]]></item>
-    <item name="ttip_CITADEL_FORTIFY_skill"><![CDATA[Fortify bolsters your ship with protective armor and increases its resistance to damage; however, it will immobilize your ship.]]></item>
-    <item name="ttip_CITADEL_PROTECTION_skill"><![CDATA[Protection Deploys a protective shield around your ship and redirects a portion of the damage inflicted on all nearby group members to your ship.]]></item>
-    <item name="ttip_SPEARHEAD_ULTIMATECLOAKING_skill"><![CDATA[Ultimate Cloaking This ability cloaks your ship, immediately removes you from the mini map and stops others from making you the target.]]></item>
-    <item name="ttip_SPEARHEAD_JAMX_skill"><![CDATA[JAMX emits an interference field which paralyzes enemy ships' functions. All effects which they are currently using will be compromised.]]></item>
-    <item name="ttip_SPEARHEAD_MARKTARGET_skill"><![CDATA[Target Marking It marks all targets for your group (even on the mini map) and increases the damage caused by all group members.]]></item>
-    <item name="ttip_SPEARHEAD_DOUBLEMINIMAP_skill"><![CDATA[Recon This skill doubles your recon range on the mini map.]]></item>
+    <item name="ttip_AEGIS_REPAIRHP_skill"><![CDATA[HP repair
+gradually restores your ship's HP as well as the HP of selected ships.]]></item>
+    <item name="ttip_AEGIS_SHIELDRECHARGE_skill"><![CDATA[Shield repair
+gradually restores your ship's shields as well as the shields of selected ships.]]></item>
+    <item name="ttip_AEGIS_HEALINGPOD_skill"><![CDATA[Reparatur Pod
+Creates an energy field and repairs your ship as well as fellow group ships.]]></item>
+    <item name="ttip_CITADEL_DRAWFIRE_skill"><![CDATA[Draw Fire
+temporarily redirects the trajectory of nearby enemy fire towards your ship.]]></item>
+    <item name="ttip_CITADEL_TRAVELMODE_skill"><![CDATA[Travel Mode
+briefly increases your ship's speed, so you can quickly travel long distances.]]></item>
+    <item name="ttip_CITADEL_FORTIFY_skill"><![CDATA[Fortify
+bolsters your ship with protective armor and increases its resistance to damage; however, it will immobilize your ship.]]></item>
+    <item name="ttip_CITADEL_PROTECTION_skill"><![CDATA[Protection
+Deploys a protective shield around your ship and redirects a portion of the damage inflicted on all nearby group members to your ship.]]></item>
+    <item name="ttip_SPEARHEAD_ULTIMATECLOAKING_skill"><![CDATA[Ultimate Cloaking
+This ability cloaks your ship, immediately removes you from the mini map and stops others from making you the target.]]></item>
+    <item name="ttip_SPEARHEAD_JAMX_skill"><![CDATA[JAMX
+emits an interference field which paralyzes enemy ships' functions. All effects which they are currently using will be compromised.]]></item>
+    <item name="ttip_SPEARHEAD_MARKTARGET_skill"><![CDATA[Target Marking
+It marks all targets for your group (even on the mini map) and increases the damage caused by all group members.]]></item>
+    <item name="ttip_SPEARHEAD_DOUBLEMINIMAP_skill"><![CDATA[Recon
+This skill doubles your recon range on the mini map.]]></item>
     <item name="msg_instant_healed_as_activator"><![CDATA[Nano-cluster instant repair completed]]></item>
     <item name="msg_instant_healed_as_activator_in_group"><![CDATA[Group nano-cluster instant repair completed]]></item>
     <item name="msg_instant_healed_as_group_member"><![CDATA[Member nano-cluster instant repair completed]]></item>
@@ -1599,14 +1641,18 @@
     <item name="ttip_jump-vouchers_count"><![CDATA[Jump credits: %COUNT%]]></item>
     <item name="ttip_repair-vouchers_count"><![CDATA[Repair vouchers: %COUNT%]]></item>
     <item name="label_jump_now"><![CDATA[Jump]]></item>
-    <item name="ttip_jump_now"><![CDATA[Starts jump.  Ave. time till jump: %SECONDS% sec.]]></item>
+    <item name="ttip_jump_now"><![CDATA[Starts jump.
+
+Ave. time till jump: %SECONDS% sec.]]></item>
     <item name="label_cpu_jump_price"><![CDATA[Price]]></item>
     <item name="attribute_free_cpu_jump"><![CDATA[Free]]></item>
     <item name="ttip_current_map"><![CDATA[Current map: %MAP%]]></item>
     <item name="ttip_selected_target"><![CDATA[Selected jump destination: %MAP%]]></item>
     <item name="ttip_select_jump_target_map"><![CDATA[Select %MAP% map as jump destination]]></item>
-    <item name="ttip_block_through_money"><![CDATA[Jump not possible. Not enough Uridium.]]></item>
-    <item name="ttip_block_low_level"><![CDATA[Jump not possible. Level too low.]]></item>
+    <item name="ttip_block_through_money"><![CDATA[Jump not possible.
+Not enough Uridium.]]></item>
+    <item name="ttip_block_low_level"><![CDATA[Jump not possible.
+Level too low.]]></item>
     <item name="ttip_block_general"><![CDATA[Jump not possible]]></item>
     <item name="ttip_block_cooldown"><![CDATA[CPU cooling down. Jump not possible.]]></item>
     <item name="msg_cpu_jump_sequence_started"><![CDATA[CPU jump started. %COUNT% sec. remaining till jump.]]></item>
@@ -1650,8 +1696,10 @@
     <item name="msg_pet_under_attack"><![CDATA[Warning! Your P.E.T. is under attack!]]></item>
     <item name="msg_pet_no_cargospace_available"><![CDATA[Not enough cargo room]]></item>
     <item name="msg_pet_attack_impossible"><![CDATA[Your P.E.T. can't attack this target.]]></item>
-    <item name="msg_pet_kamikaze-gear_cooldown_ready"><![CDATA[Kamikaze Detonator cooldown time has elapsed. Detonator may now be selected.]]></item>
-    <item name="msg_pet_friendly_sacrifice-gear_cooldown_ready"><![CDATA[Sacrificial Flame cooldown time has elapsed. Sacrificial Flame may now be selected.]]></item>
+    <item name="msg_pet_kamikaze-gear_cooldown_ready"><![CDATA[Kamikaze Detonator cooldown time has elapsed.
+Detonator may now be selected.]]></item>
+    <item name="msg_pet_friendly_sacrifice-gear_cooldown_ready"><![CDATA[Sacrificial Flame cooldown time has elapsed.
+Sacrificial Flame may now be selected.]]></item>
     <item name="msg_pet_kamikaze-gear_not_on_start_maps"><![CDATA[Kamikaze Detonator may not be used in this map.]]></item>
     <item name="title_request_fuel"><![CDATA[Get fuel]]></item>
     <item name="pet_gear_passive_mode_name"><![CDATA[Passive mode]]></item>
@@ -1795,15 +1843,23 @@
     <item name="log_msg_npc_hunt_point_p"><![CDATA[You received %AMOUNT% NPC Hunt points.]]></item>
     <item name="ttip_npc_hunt_point"><![CDATA[NPC Hunt points]]></item>
     <item name="ttip_clan_npc_hunt_point"><![CDATA[Clan NPC Hunt points]]></item>
-    <item name="epic_msg_uridium-plus-package_new_offer"><![CDATA[Thanks for your loyalty. We've put together some great packs for you. Get one now on the game's Uridium page!]]></item>
-    <item name="epic_msg_uridium-plus-package_offer_active_day_p"><![CDATA[Visit the game's Uridium page and get a great deal today. This offer expires in %COUNT% days!]]></item>
-    <item name="epic_msg_uridium-plus-package_offer_active_day_s"><![CDATA[Visit the game's Uridium page and get a great deal today. This offer expires in 1 day!]]></item>
-    <item name="epic_msg_uridium-plus-package_offer_active_hour_p"><![CDATA[Visit the game's Uridium page and get a great deal today. This offer expires in %COUNT% hours!]]></item>
-    <item name="epic_msg_uridium-plus-package_offer_active_hour_s"><![CDATA[Visit the game's Uridium page and get a great deal today. This offer expires in 1 hour!]]></item>
-    <item name="epic_msg_uridium-plus-package_offer_active_minute_p"><![CDATA[Visit the game's Uridium page and get a great deal today. This offer expires in %COUNT% minutes!]]></item>
+    <item name="epic_msg_uridium-plus-package_new_offer"><![CDATA[Thanks for your loyalty. We've put together some great packs for you.
+Get one now on the game's Uridium page!]]></item>
+    <item name="epic_msg_uridium-plus-package_offer_active_day_p"><![CDATA[Visit the game's Uridium page and get a great deal today.
+This offer expires in %COUNT% days!]]></item>
+    <item name="epic_msg_uridium-plus-package_offer_active_day_s"><![CDATA[Visit the game's Uridium page and get a great deal today.
+This offer expires in 1 day!]]></item>
+    <item name="epic_msg_uridium-plus-package_offer_active_hour_p"><![CDATA[Visit the game's Uridium page and get a great deal today.
+This offer expires in %COUNT% hours!]]></item>
+    <item name="epic_msg_uridium-plus-package_offer_active_hour_s"><![CDATA[Visit the game's Uridium page and get a great deal today.
+This offer expires in 1 hour!]]></item>
+    <item name="epic_msg_uridium-plus-package_offer_active_minute_p"><![CDATA[Visit the game's Uridium page and get a great deal today.
+This offer expires in %COUNT% minutes!]]></item>
     <item name="epic_msg_starter-premium_end_day_no-call_p"><![CDATA[Your starter premium ends in: %COUNT% day(s).]]></item>
-    <item name="epic_msg_starter-premium_end_day_p"><![CDATA[Your starter premium ends in: %COUNT% day(s).. Renew your Premium membership on the Uridium page at a special price!]]></item>
-    <item name="epic_msg_starter-premium_end_day_s"><![CDATA[Your starter premium is valid for: 1 day. Renew your Premium membership on the Uridium page at a special price!]]></item>
+    <item name="epic_msg_starter-premium_end_day_p"><![CDATA[Your starter premium ends in: %COUNT% day(s)..
+Renew your Premium membership on the Uridium page at a special price!]]></item>
+    <item name="epic_msg_starter-premium_end_day_s"><![CDATA[Your starter premium is valid for: 1 day.
+Renew your Premium membership on the Uridium page at a special price!]]></item>
     <item name="setting_displayNotifications"><![CDATA[Display game performance messages]]></item>
     <item name="notification_low_performance"><![CDATA[Your game performance is suboptimal.<br><br>To improve your game performance, you can adjust the quality of the graphics to your computer in the <blue>display settings</blue>.]]></item>
     <item name="setting_btn_interface_tab"><![CDATA[Interface]]></item>
@@ -2024,7 +2080,8 @@
     <item name="log_msg_scoreevent_no_points_own_clan"><![CDATA[The opponent belongs to your clan and so there are no points.]]></item>
     <item name="log_msg_scoreevent_lost"><![CDATA[You were destroyed and have been eliminated from Scoremageddon with %SCORE% points.]]></item>
     <item name="log_msg_scoreevent_end_points"><![CDATA[You have ended the Scoremageddon with %SCORE% points.]]></item>
-    <item name="epic_msg_shrink_radiationzone"><![CDATA[Warning pilots! The radiation zone is expanding. It's time for the final battle!]]></item>
+    <item name="epic_msg_shrink_radiationzone"><![CDATA[Warning pilots!
+The radiation zone is expanding. It's time for the final battle!]]></item>
     <item name="log_msg_gather_drone-apis_s"><![CDATA[You received an APIS drone.]]></item>
     <item name="log_msg_gather_drone-apis-part_s"><![CDATA[You found a component of the Apis drone blueprints. The immediate production price for this drone is now lower.]]></item>
     <item name="log_msg_gather_drone-apis-part_p"><![CDATA[You found %COUNT% components of the Apis drone blueprints. The immediate production price for this drone is now lower.]]></item>
@@ -2044,22 +2101,36 @@
     <item name="title_bannerad_addendum"><![CDATA[Advertisement]]></item>
     <item name="epic_msg_achievement_unlocked"><![CDATA[Achievement "%ACH_NAME%" activated!]]></item>
     <item name="ttip_menu_droneFormations"><![CDATA[Drone Formations]]></item>
-    <item name="ttip_btn_droneFormation_STD"><![CDATA[Standard Formation No bonuses or mali.]]></item>
-    <item name="ttip_btn_droneFormation_TURTLE"><![CDATA[Turtle Formation Increases shield power by 10%, but reduces laser and rocket damage by 7.5%.]]></item>
-    <item name="ttip_btn_droneFormation_ARROW"><![CDATA[Arrow Formation Increases rocket damage by 20%, but reduces laser damage by 3%.]]></item>
-    <item name="ttip_btn_droneFormation_LANCE"><![CDATA[Lance Formation Increases mine damage by 50%.]]></item>
-    <item name="ttip_btn_droneFormation_STAR"><![CDATA[Star Formation Increases rocket damage by 25%, but also increases rocket launcher reload time by 33%.]]></item>
-    <item name="ttip_btn_droneFormation_PINCER"><![CDATA[Pincer Formation Increases laser damage by 3% against other players and provides an additional 5% honor point bonus. However, it reduces shield penetration by 10%.]]></item>
-    <item name="ttip_btn_droneFormation_DOUBLE_ARROW"><![CDATA[Double Arrow Formation Increases shield penetration by 10%, but reduces shield power by 20%.]]></item>
-    <item name="ttip_btn_droneFormation_DIAMOND"><![CDATA[Diamond Formation Your shield regenerates 1% of your max shield power per second, up to a maximum of 5,000 per second. But hit points are reduced by 30%.]]></item>
-    <item name="ttip_btn_droneFormation_CHEVRON"><![CDATA[Chevron Formation Increases rocket damage by 50%, but ship hit points will be reduced by 20%.]]></item>
-    <item name="ttip_btn_droneFormation_MOTH"><![CDATA[Moth Formation Increases shield penetration by 20%. Increases hit points by 20%, as well. But weakens your shield strength at a rate of 1% per second.]]></item>
-    <item name="ttip_btn_droneFormation_CRAB"><![CDATA[Crab Formation Increases your shield absorption by 20%, but reduces your speed by 20%, as well.]]></item>
-    <item name="ttip_btn_droneFormation_HEART"><![CDATA[Heart Formation Increases you shield power by 10% and your hit points by 20%. Reduces, however, laser damage by 5%.]]></item>
-    <item name="ttip_btn_droneFormation_BARRAGE"><![CDATA[Barrage Formation It causes 5% more laser damage to NPCs and also gives you 5% more EP. Shield Leech will, however, be reduced by 15%.]]></item>
+    <item name="ttip_btn_droneFormation_STD"><![CDATA[Standard Formation
+No bonuses or mali.]]></item>
+    <item name="ttip_btn_droneFormation_TURTLE"><![CDATA[Turtle Formation
+Increases shield power by 10%, but reduces laser and rocket damage by 7.5%.]]></item>
+    <item name="ttip_btn_droneFormation_ARROW"><![CDATA[Arrow Formation
+Increases rocket damage by 20%, but reduces laser damage by 3%.]]></item>
+    <item name="ttip_btn_droneFormation_LANCE"><![CDATA[Lance Formation
+Increases mine damage by 50%.]]></item>
+    <item name="ttip_btn_droneFormation_STAR"><![CDATA[Star Formation
+Increases rocket damage by 25%, but also increases rocket launcher reload time by 33%.]]></item>
+    <item name="ttip_btn_droneFormation_PINCER"><![CDATA[Pincer Formation
+Increases laser damage by 3% against other players and provides an additional 5% honor point bonus. However, it reduces shield penetration by 10%.]]></item>
+    <item name="ttip_btn_droneFormation_DOUBLE_ARROW"><![CDATA[Double Arrow Formation
+Increases shield penetration by 10%, but reduces shield power by 20%.]]></item>
+    <item name="ttip_btn_droneFormation_DIAMOND"><![CDATA[Diamond Formation
+Your shield regenerates 1% of your max shield power per second, up to a maximum of 5,000 per second. But hit points are reduced by 30%.]]></item>
+    <item name="ttip_btn_droneFormation_CHEVRON"><![CDATA[Chevron Formation
+Increases rocket damage by 50%, but ship hit points will be reduced by 20%.]]></item>
+    <item name="ttip_btn_droneFormation_MOTH"><![CDATA[Moth Formation
+Increases shield penetration by 20%. Increases hit points by 20%, as well. But weakens your shield strength at a rate of 1% per second.]]></item>
+    <item name="ttip_btn_droneFormation_CRAB"><![CDATA[Crab Formation
+Increases your shield absorption by 20%, but reduces your speed by 20%, as well.]]></item>
+    <item name="ttip_btn_droneFormation_HEART"><![CDATA[Heart Formation
+Increases you shield power by 10% and your hit points by 20%. Reduces, however, laser damage by 5%.]]></item>
     <item name="ttip_btn_droneFormation_BARRAGE"><![CDATA[Barrage Formation
  It causes 5% more laser damage to NPCs and also gives you 5% more EP. Shield Leech will, however, be reduced by 15%.]]></item>
-    <item name="ttip_btn_droneFormation_BAT"><![CDATA[Bat Formation Increases the damage you cause to NPCs by 8% and earns you 8% more XP, as well. Decreases your speed by 15%.]]></item>
+    <item name="ttip_btn_droneFormation_BARRAGE"><![CDATA[Barrage Formation
+ It causes 5% more laser damage to NPCs and also gives you 5% more EP. Shield Leech will, however, be reduced by 15%.]]></item>
+    <item name="ttip_btn_droneFormation_BAT"><![CDATA[Bat Formation
+Increases the damage you cause to NPCs by 8% and earns you 8% more XP, as well. Decreases your speed by 15%.]]></item>
     <item name="ttip_btn_droneFormation_RING"><![CDATA[Ring-Formation
 -50% Laserschaden
 +180% Schildwert]]></item>
@@ -2123,18 +2194,27 @@ Protze mit der Wellen Formation, diese Dronen wissen wie sie sich bewegen!)]]></
     <item name="btn_challenge_cancel"><![CDATA[Abort challenge]]></item>
     <item name="quest_cancel_popup_title"><![CDATA[Confirm]]></item>
     <item name="quest_cancel_popup_message"><![CDATA[Are you sure you wish to abort this mission?]]></item>
-    <item name="ttip_questwin_icon_KILL"><![CDATA[Destroy Destroy the required enemies.]]></item>
-    <item name="ttip_questwin_icon_COLLECT"><![CDATA[Collect Collect the required materials.]]></item>
-    <item name="ttip_questwin_icon_DISCOVER"><![CDATA[Discovery Go on a journey of discovery.]]></item>
-    <item name="ttip_questwin_icon_PVP"><![CDATA[PvP Battle other players.]]></item>
-    <item name="ttip_questwin_icon_TIME"><![CDATA[Time Complete the mission in the time allowed.]]></item>
-    <item name="ttip_questwin_icon_SUMMERGAMES3"><![CDATA[Event Complete the event missions.]]></item>
-    <item name="ttip_questwin_icon_WINTERGAMES09"><![CDATA[Event Complete the event missions.]]></item>
-    <item name="ttip_questwin_icon_EPIC"><![CDATA[Epic Complete this mission for particularly valuable rewards.]]></item>
+    <item name="ttip_questwin_icon_KILL"><![CDATA[Destroy
+Destroy the required enemies.]]></item>
+    <item name="ttip_questwin_icon_COLLECT"><![CDATA[Collect
+Collect the required materials.]]></item>
+    <item name="ttip_questwin_icon_DISCOVER"><![CDATA[Discovery
+Go on a journey of discovery.]]></item>
+    <item name="ttip_questwin_icon_PVP"><![CDATA[PvP
+Battle other players.]]></item>
+    <item name="ttip_questwin_icon_TIME"><![CDATA[Time
+Complete the mission in the time allowed.]]></item>
+    <item name="ttip_questwin_icon_SUMMERGAMES3"><![CDATA[Event
+Complete the event missions.]]></item>
+    <item name="ttip_questwin_icon_WINTERGAMES09"><![CDATA[Event
+Complete the event missions.]]></item>
+    <item name="ttip_questwin_icon_EPIC"><![CDATA[Epic
+Complete this mission for particularly valuable rewards.]]></item>
     <item name="title_questwin_no_quests_available"><![CDATA[No available missions]]></item>
-    <item name="desc_questwin_no_quests_available_NYX"><![CDATA[Well done, pilot. You have completed all the tasks available. Stop by tomorrow and take on some more.]]></item>
+    <item name="desc_questwin_no_quests_available_NYX"><![CDATA[Well done, pilot. You have completed all the tasks available.
+Stop by tomorrow and take on some more.]]></item>
     <item name="desc_questwin_no_event_quests_available_NYX"><![CDATA[There are no missions currently available for you. Make sure you check in on a regular basis, so you don't miss any!]]></item>
-    <item name="desc_questwin_no_weekly_event_quests_available_NYX"><![CDATA[My systems identify that you cannot take a new weekly quest at the moment. Weekly quests become available on Monday, each week.]]></item>
+    <item name="desc_questwin_no_weekly_event_quests_available_NYX"><![CDATA[TBD]]></item>
     <item name="ttip_questwin_notacceptable_TOOMANY"><![CDATA[Mission unavailable. You may only have %AMOUNT% missions active at the same time.]]></item>
     <item name="ttip_questwin_notacceptable_TOOLOWLEVEL"><![CDATA[You have to reach level %AMOUNT% to be able to accept this mission.]]></item>
     <item name="ttip_questwin_notacceptable_DATE"><![CDATA[This mission will be available in %BEGIN% and lasts %TIME%.]]></item>
@@ -2242,8 +2322,10 @@ Protze mit der Wellen Formation, diese Dronen wissen wie sie sich bewegen!)]]></
     <item name="msg_station_satellite_destruction_reward"><![CDATA[You've received %AMOUNT% Uridium from the %MODULE% (Level %LEVEL%) Module at the %STATION% Battle Station.]]></item>
     <item name="msg_station_hub_destruction_reward"><![CDATA[You've received %AMOUNT% Uridium from the %STATION% Battle Station.]]></item>
     <item name="msg_station_built"><![CDATA[%CLAN% is now in control of the %STATION% Battle Station on the %MAP% map!]]></item>
-    <item name="msg_station_built_deflector_off"><![CDATA[%CLAN% is nowin control of the %STATION% Battle Station on the %MAP% map! This Battle Station's Defelctor is being activated.]]></item>
-    <item name="msg_station_accomplished"><![CDATA[Battle Station %STATION% from %CLAN% on map %MAP% is now complete! The Battle Station's deflector is now being charged.]]></item>
+    <item name="msg_station_built_deflector_off"><![CDATA[%CLAN% is nowin control of the %STATION% Battle Station on the %MAP% map!
+This Battle Station's Defelctor is being activated.]]></item>
+    <item name="msg_station_accomplished"><![CDATA[Battle Station %STATION% from %CLAN% on map %MAP% is now complete!
+The Battle Station's deflector is now being charged.]]></item>
     <item name="msg_station_destroyed"><![CDATA[%LOSER%'s %STATION% Battle Station was destroyed on the %MAP% map!]]></item>
     <item name="msg_station_destroyed_by_clan"><![CDATA[%DESTROYER% destroyed %LOSER%'s %STATION% Battle Station on the %MAP% map!]]></item>
     <item name="msg_primetime_started"><![CDATA[Activated Battle Station's Prime Time]]></item>
@@ -2468,7 +2550,9 @@ Protze mit der Wellen Formation, diese Dronen wissen wie sie sich bewegen!)]]></
     <item name="tdm_popup_match_ended_message"><![CDATA[The game has already ended.]]></item>
     <item name="tdm_popup_no_match_for_faction_title"><![CDATA[No available game.]]></item>
     <item name="tdm_popup_no_match_for_faction_message"><![CDATA[There is no game available for this company.]]></item>
-    <item name="tdm_result_msg"><![CDATA[Team Deathmatch: %WINNER% has defeated %LOSER% with a score of %POINTS_WINNER% to %POINTS_LOSER%.  Match duration: %TIME%.]]></item>
+    <item name="tdm_result_msg"><![CDATA[Team Deathmatch:
+ %WINNER% has defeated %LOSER% with a score of %POINTS_WINNER% to %POINTS_LOSER%.
+ Match duration: %TIME%.]]></item>
     <item name="friendlyfire_disabled"><![CDATA[Friendly fire disabled]]></item>
     <item name="tdm_status_event_headline"><![CDATA[Team Deathmatch Status:]]></item>
     <item name="tdm_status_lives_remaining"><![CDATA[Lives:]]></item>
@@ -2489,7 +2573,10 @@ Protze mit der Wellen Formation, diese Dronen wissen wie sie sich bewegen!)]]></
     <item name="ttip_sector_control_beacon"><![CDATA[Click to open Sector Control match making UI.]]></item>
     <item name="ttip_tdm_beacon"><![CDATA[Click to open Team Deathmatch match making UI.]]></item>
     <item name="low_performance_pepper_flash_player_header"><![CDATA[How to disable Pepper Flash Player]]></item>
-    <item name="text_pepper_flash_player_fix"><![CDATA[1. Open Chrome and type in chrome://plugins/ in URL. 2. Expand the ‘Details’ 3. Deactivate PepperFlash 4. Restart the browser]]></item>
+    <item name="text_pepper_flash_player_fix"><![CDATA[1. Open Chrome and type in chrome://plugins/ in URL.
+2. Expand the ‘Details’
+3. Deactivate PepperFlash
+4. Restart the browser]]></item>
     <item name="btn_lable_fix_it"><![CDATA[Show me how!]]></item>
     <item name="notification_low_performance_pepper_flash_player"><![CDATA[Your default Flash player can spoil your game experience. Fortunately this can be easily fixed!]]></item>
     <item name="pusher_info_less_reward"><![CDATA[You get less reward from %NAME%, he is too weak for you!]]></item>
